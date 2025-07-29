@@ -1,4 +1,4 @@
-package org.asap.ejercicio1;
+package org.asap.clase1;
 
 import java.util.Scanner;
 
