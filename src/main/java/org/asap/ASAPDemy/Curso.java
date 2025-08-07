@@ -50,7 +50,8 @@ public class Curso {
 
     public void agregarAlumno(Usuario usuario) {
         this.suscriptos.add(usuario);
-        this.becados++;
+        if (usuario.esBecado()){
+        this.becados++;}
     }
 
     public Usuario getAutor() {
