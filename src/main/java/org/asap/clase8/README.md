@@ -1,4 +1,4 @@
-# Clase 7 – Ejercicio integrador
+# Clase 8 – Ejercicio integrador
 
 ## Consigna
 
