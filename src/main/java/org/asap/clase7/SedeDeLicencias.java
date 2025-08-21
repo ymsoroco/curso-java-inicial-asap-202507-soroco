@@ -41,7 +41,6 @@ public class SedeDeLicencias {
                 }
             }
         }
-
         return cantidad > 0 ? sumaTiempo / cantidad : 0.0;
     }
 
@@ -51,4 +50,3 @@ public class SedeDeLicencias {
         return new Informe(porc, prom);
     }
 }
-

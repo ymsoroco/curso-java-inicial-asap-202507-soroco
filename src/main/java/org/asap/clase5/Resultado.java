@@ -1,4 +1,4 @@
-package org.asap.ASAPDemy;
+package org.asap.clase5;
 
 public enum Resultado {
     SUSCRIPTO_OK("El usuario se suscribió exitosamente al curso."),

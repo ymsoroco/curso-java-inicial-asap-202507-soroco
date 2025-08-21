@@ -1,4 +1,4 @@
-package org.asap.ASAPDemy;
+package org.asap.clase5;
 
 public class Main {public static void main(String[] args) {
     // Crear la plataforma
